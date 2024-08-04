@@ -5,6 +5,7 @@ Spherical harmonics transformations, projections, convolutions, and utility func
 I have code for the fast transform (in addition to the discrete here) that I will add sometime.
 
 Consult the following papers for insight:
+
 [Spherical Harmonic Lighting: The Gritty Details](https://3dvar.com/Green2003Spherical.pdf)
 
 [Stupid SH Tricks](https://www.ppsloan.org/publications/StupidSH36.pdf)
