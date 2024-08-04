@@ -1,4 +1,4 @@
-# SphericalHarmonics
+# Spherical Harmonics
 
 Spherical harmonics transformations, projections, convolutions, and utility functions.  Used for environment map processing.
 
